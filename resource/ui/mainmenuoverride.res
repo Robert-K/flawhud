@@ -7,10 +7,10 @@
 		"fieldName"		"MainMenuOverride"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"0"
+		"xpos"			"c-427"
 		"ypos"			"0"
 		"zpos"			"0"
-		"wide"			"f0"
+		"wide"			"854"
 		"tall"			"480"
 
 		"update_url"	"http://store.steampowered.com/news/?filter=updates&appids=440"
@@ -536,7 +536,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"QuestLogButtonNew"
-		"xpos"			"r28"
+		"xpos"			"c399"
 		"ypos"			"60"
 		"zpos"			"1"
 		"wide"			"30"
@@ -612,7 +612,7 @@
 	{
 		"ControlName"			"EditablePanel"
 		"fieldName"				"FavoriteServer"
-		"xpos"					"r28"
+		"xpos"					"c399"
 		"ypos"					"85"
 		"zpos"					"1"
 		"wide"					"24"
@@ -672,7 +672,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"WatchStreamButton"
-		"xpos"			"r28"
+		"xpos"			"c399"
 		"ypos"			"110"
 		"zpos"			"0"
 		"wide"			"24"

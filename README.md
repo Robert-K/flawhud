@@ -1,6 +1,9 @@
-![alt text](https://i.imgur.com/2YFHa7X.png)
+![flawhud](https://user-images.githubusercontent.com/34353377/43371650-b0ec9112-9396-11e8-926e-028503ce4e15.jpg)
 
-A custom Heads-Up Display (HUD) for Team Fortress 2 
+A custom Heads-Up Display (HUD) for Team Fortress 2, edited to support triple monitor setups (5760x1080)
+
+#### Notice
+Not every HUD element has been adjusted to work with three monitors; the main menu, scoreboard and some unimportant in-game HUD elements might appear incorrectly (or not at all). Though using this HUD is already better than vanilla on triple monitors, I will continue to update this fork until it allows for a clean experience.
 
 #### Installation
 Extract the zipped file contents into `Steam\steamapps\common\Team Fortress 2\tf\custom`
@@ -20,6 +23,7 @@ While the necessary files and entry in hudslayout.res (disabled by default) are 
 There are several features that require [CastingEssentials](https://github.com/PazerOP/CastingEssentials/releases), including MediGun and Team Score panels - both used in the Tournament Spectator, either in demo or SourceTV. For information on how to enable them go to the [CastingEssentials wiki](https://github.com/PazerOP/CastingEssentials/wiki).
 
 #### Credits/Thank You
+* [Original Flawhud]() by [CriticalFlaw]()
 * [Class Portraits]() by [unknown]()
 * [Team Scores](https://github.com/CriticalFlaw/flawhud/blob/master/resource/ui/teamscorepanel.res) Panel by [Wiethoofd](https://github.com/Wiethoofd)
 * [CastingEssentials](https://github.com/PazerOP/CastingEssentials) by [pazer](https://github.com/PazerOP)
